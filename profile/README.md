@@ -2,7 +2,7 @@
 
 **L'agriculture intelligente, réinventée.**
 
-Skylivae développe des solutions de surveillance et de gestion agricole, en combinant IA 🤖, satellite 🛰️ et drone 🚁.  
+Skylivae développe des solutions de surveillance et de gestion agricole, en combinant la vision par l'IA, satellite et drone.  
 Notre mission : rendre l'agriculture plus durable, plus précise et plus accessible grâce à la technologie.
 
 ## 🚀 Nos projets
